@@ -34,6 +34,5 @@ if ($_SESSION['user'])
 </form>
 
 </body>
-
 </html>
 <?php }?>
